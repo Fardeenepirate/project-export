@@ -1,0 +1,29 @@
+.odd {
+  color: green;
+}
+
+.even {
+  color: red;
+}
+.chores {
+  text-decoration: underline;
+  color: white;
+}
+
+.homework {
+  text-decoration: underline;
+  color: white;
+}
+
+.party {
+  text-decoration: underline;
+  color: white;
+}
+
+.body {
+  background-color: rgba(51, 61, 71, 255);
+}
+
+.h1 {
+  color: white;
+}
